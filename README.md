@@ -1,7 +1,8 @@
 # Generative art bot  
-Based on [Samila library](https://github.com/sepandhaghighi/samila)   
 
-[Colab](https://colab.research.google.com/drive/1jWOlk001JPHLLsSxXpndftZlZSg38OC-?usp=sharing)
+[@fields_of_mind_bot](https://t.me/fields_of_mind_bot)    
+
+Based on [Samila library](https://github.com/sepandhaghighi/samila)   
 
 
 #to do
