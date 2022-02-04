@@ -7,3 +7,4 @@ Based on [Samila library](https://github.com/sepandhaghighi/samila)
 
 #to do
 - set parameters(transformation type, color) switching
+- generate music for grayscale inverted images
